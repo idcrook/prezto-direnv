@@ -3,6 +3,17 @@ prezto-direnv
 
 copied from https://github.com/belak/prezto-contrib `direnv` module, but is pretty generic loader
 
+Pre-requisite
+--------------
+
+ - https://github.com/direnv/direnv/blob/master/docs/installation.md
+
+
+```
+brew install direnv
+```
+
+
 Install
 -------
 
